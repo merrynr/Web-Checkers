@@ -1,0 +1,55 @@
+commit 252c5fbfe7be65781bac675d1aeac4ba4b9d19e1
+Author: Anthony Cianfrocco <afc4328@rit.edu>
+Date:   Tue Sep 25 18:34:44 2018 -0400
+
+    Added name back to fix push mistake
+
+commit d2c0211d5acac28d651dab49bcbab07081751a34
+Merge: 11e4930 eca080b
+Author: Merry Ren <mxr6570@glados.cs.rit.edu>
+Date:   Tue Sep 25 18:30:35 2018 -0400
+
+    Merge branch 'master' of https://github.com/RIT-SWEN-261-08/team-project-2181-swen-261-08-a-teama
+
+commit 11e49303a18876592c99256ef42505b28612b37d
+Author: Merry Ren <mxr6570@glados.cs.rit.edu>
+Date:   Tue Sep 25 18:22:01 2018 -0400
+
+    initial commit
+
+commit eca080bf8851b6790415bdd4a060fff9897a3e0f
+Merge: daa8025 96b5fee
+Author: Anthony Cianfrocco <afc4328@rit.edu>
+Date:   Tue Sep 25 18:20:37 2018 -0400
+
+    Added name Anthony Cianfrocco
+
+commit daa802545ee80e50179203f400a4732db445a1d1
+Author: Anthony Cianfrocco <afc4328@rit.edu>
+Date:   Tue Sep 25 18:18:41 2018 -0400
+
+    Added Anthony Cianfrocco
+
+commit 96b5fee01cc3a101d8ccc0f9f913058b8b439aba
+Author: Dante Secada-Oz <hunterdrago@me.com>
+Date:   Tue Sep 25 18:16:54 2018 -0400
+
+    Updated README to include name
+
+commit db5c806de5b631d00c8ef60ad0cf964f77e34131
+uthor: Priya Jain <pxj1638@g.rit.edu>
+Date:   Mon Sep 24 16:01:05 2018 -0400
+
+    Added my name (Priya Jain) to team members
+
+commit a62c2aaff47ff3b73c6519062e58891981606100
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Wed Sep 12 13:02:11 2018 -0400
+
+    Initial WEBCHECHERS SEED REPO for 2181
+
+commit a792d7685a5cd3517cfe1fba0d68621cf1449817
+Author: KennBMartinez <kbmvse@rit.edu>
+Date:   Sat Sep 8 16:54:48 2018 -0400
+
+    Initial commit

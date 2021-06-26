@@ -1,0 +1,5 @@
+Step 1: Compile
+mvn compile exec:java
+
+Step 2: Connect to browser
+localhost:4567

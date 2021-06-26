@@ -1,0 +1,22 @@
+# Build/Maven #
+###############
+**/target/
+
+
+# Eclipse #
+##########
+.project
+.classpath
+.settings
+**/bin/
+.metadata/
+.ucls
+
+# IntelliJ #
+############
+.idea/
+*.iml
+
+# Mac OS Storage Files #
+########################
+.DS_Store

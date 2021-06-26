@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <enumeration id="1" language="java" name="com.webcheckers.model.Move.MOVETYPE" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Move.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="156" width="180" x="2182" y="2099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="2" language="java" name="com.webcheckers.model.Piece.COLOR" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Piece.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="171" x="2817" y="2315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="3" language="java" name="com.webcheckers.ui.GetGameRoute" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/GetGameRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="376" width="350" x="1920" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.webcheckers.model.Message" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Message.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="186" x="1025" y="595"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.webcheckers.ui.GetSignOutRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/GetSignOutRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="216" width="270" x="511" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.webcheckers.ui.PostValidateMoveRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostValidateMoveRoute.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="409" x="1471" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.webcheckers.ui.PostResignGameRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostResignGameRoute.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="406" x="1025" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <component id="8" language="java" name="src/main/java" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="48" width="164" x="821" y="179"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <enumeration id="9" language="java" name="com.webcheckers.model.Message.TYPE" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Message.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="171" x="1025" y="1111"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="10" language="java" name="com.webcheckers.ui.PostSignInRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostSignInRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="216" width="357" x="2310" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.webcheckers.ui.PostSubmitTurnRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostSubmitTurnRoute.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="136" width="392" x="2707" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.webcheckers.application.GameCenter" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/application/GameCenter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="338" x="3312" y="595"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.webcheckers.ui.GetSignInRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/GetSignInRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="350" x="3139" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.webcheckers.model.Move" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Move.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="282" x="2402" y="1803"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="15" language="java" name="com.webcheckers.model.Piece.TYPE" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Piece.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="171" x="2606" y="2315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="16" language="java" name="com.webcheckers.application.PlayerLobby" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/application/PlayerLobby.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="316" width="338" x="3248" y="1111"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.webcheckers.ui.PostCheckTurnRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostCheckTurnRoute.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="136" width="388" x="5530" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.webcheckers.ui.GetHomeRoute" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/GetHomeRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="296" width="349" x="3529" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.webcheckers.model.Player" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Player.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="216" width="189" x="3028" y="2315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.webcheckers.ui.WebServer" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/WebServer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="336" width="320" x="3918" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.webcheckers.model.Position" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Position.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="176" width="164" x="2402" y="2099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.webcheckers.model.Piece" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Piece.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="176" width="180" x="2606" y="2099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.webcheckers.ui.PostSignOutRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostSignOutRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="156" width="370" x="4278" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.webcheckers.ui.PostGameRoute" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostGameRoute.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="357" x="4688" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.webcheckers.ui.PostBackupMoveRoute" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/ui/PostBackupMoveRoute.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="156" width="405" x="5085" y="179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="26" language="java" name="com.webcheckers.model.Square.COLOR" 
+    project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Square.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="136" width="171" x="249" y="686"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="27" language="java" name="com.webcheckers.model.Square" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Square.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="316" width="197" x="249" y="330"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.webcheckers.model.Game" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Game.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2960" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.webcheckers.model.Board" project="team-project-2181-swen-261-08-a-teama" 
+    file="/team-project-2181-swen-261-08-a-teama/src/main/java/com/webcheckers/model/Board.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="256" width="313" x="2381" y="1409"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="30">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="31" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="33">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="34">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="35" name="color">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="38" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="41" name="pieceTaken">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="44" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="45" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="46">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="47">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="48" name="pieceColor">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="51" name="playerLobby">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="54" name="movesInTurn"/>      
+      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="57" name="pieceMoved">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="60" name="board"/>      
+      <multiplicity id="61" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="63" name="playerOneBoard"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="66" name="playerTwoBoard"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <bendpoint x="3137" y="1487"/>    
+    <bendpoint x="3137" y="1803"/>    
+    <bendpoint x="3137" y="2099"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="69" name="versesList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="70" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="71">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="72">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="73" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="74" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="76" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="77" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="78">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="79">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="80" name="playerTwoColor"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="83" name="currentPlayer"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="86" name="playerTwo"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="89" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="90" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="92" name="playerColor"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="95" name="type">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="96" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="3616" y="1111"/>    
+    <bendpoint x="3616" y="1487"/>    
+    <bendpoint x="3616" y="1803"/>    
+    <bendpoint x="3616" y="2099"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="98" name="versesList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="99" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="101" name="player"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <bendpoint x="4175" y="595"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="104" name="playerLobby">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="105" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="107" name="owner">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="108" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="110" name="opponentColor"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="112">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="113">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="114" name="games"/>      
+      <multiplicity id="115" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="117" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="118" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <bendpoint x="2368" y="595"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="120" name="playerLobby">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="121" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="123" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="124" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="126" name="playerOneColor"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <bendpoint x="4398" y="595"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="129" name="playerLobby">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="130" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="131">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="132" name="playerOne"/>      
+      <multiplicity id="133" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="135" name="type">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="136" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="138" name="resignStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="139" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="141" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="142" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="144" name="opponent"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="147" name="occupant">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="148" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="150" name="winner"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="153" name="positionTaken">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="154" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="156" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="157" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="159" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="160" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="162" name="gameCenter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="163" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <bendpoint x="3158" y="1487"/>    
+    <bendpoint x="3158" y="1803"/>    
+    <bendpoint x="3158" y="2099"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="165" name="userDatabase">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="166" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
